@@ -3,7 +3,7 @@
 
 I am an aspiring Software Developer. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](https://kaustubhchilweri.web.app/).
+### 🔭 Have a look at my [website](https://kaustubh-chilweri.web.app/).
 
 
 ## ⚡ Tech Stack
