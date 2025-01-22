@@ -1,7 +1,7 @@
 
 # Hi, I am Kaus. Kaustubh Chilweri 👨‍💻
 
-I am an aspiring Software Developer. I am passionate about technologies and love to learn new things.
+I am an aspiring Software Engineer. I am passionate about technologies and love to learn new things.
 
 ### 🔭 Have a look at my [website](https://kaustubh-chilweri.web.app/).
 
